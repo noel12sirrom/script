@@ -1,2 +1,8 @@
 python-dotenv
 supabase
+aiohttp
+time
+csv
+shutil
+asyncio
+aiohttp
